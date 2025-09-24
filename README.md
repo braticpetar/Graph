@@ -1,4 +1,4 @@
-# Unity Analog Clock
+# Unity Graph
 
 A simple Unity project based on the [Catlike Coding tutorial](https://catlikecoding.com/unity/tutorials/basics/building-a-graph/)
 
